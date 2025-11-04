@@ -7,7 +7,7 @@ const StatCard = ({ icon, count, title, bgColor }) => {
     >
       <div>
         <h2 className="text-4xl font-bold">{count}</h2>
-        <p className="text-sm uppercase font-bold mt-1">dokumen {title}</p>
+        <p className="text-sm uppercase font-bold mt-1">transaksi {title}</p>
       </div>
       <div className="text-5xl opacity-70">{icon}</div>
     </div>

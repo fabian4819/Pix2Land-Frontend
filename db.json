@@ -1,0 +1,964 @@
+{
+  "historiData": [
+    {
+      "id": "h1",
+      "kode": "ORD-A4B1C2D3",
+      "tgl": "2024-01-05",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 850500
+    },
+    {
+      "id": "h2",
+      "kode": "ORD-E5F6G7H8",
+      "tgl": "2024-01-12",
+      "order": "Bundle Model",
+      "status": "Belum",
+      "jumlah": 75900
+    },
+    {
+      "id": "h3",
+      "kode": "ORD-I9J1K2L3",
+      "tgl": "2024-01-18",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 1200000
+    },
+    {
+      "id": "h4",
+      "kode": "ORD-M4N5O6P7",
+      "tgl": "2024-01-22",
+      "order": "Bundle Model",
+      "status": "Batal",
+      "jumlah": 58000
+    },
+    {
+      "id": "h5",
+      "kode": "ORD-Q8R9S1T2",
+      "tgl": "2024-01-28",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 975000
+    },
+    {
+      "id": "h6",
+      "kode": "ORD-U3V4W5X6",
+      "tgl": "2024-02-03",
+      "order": "Bundle Model",
+      "status": "Berhasil",
+      "jumlah": 150000
+    },
+    {
+      "id": "h7",
+      "kode": "ORD-Y7Z8A1B2",
+      "tgl": "2024-02-09",
+      "order": "Bangunan Rumah",
+      "status": "Belum",
+      "jumlah": 650000
+    },
+    {
+      "id": "h8",
+      "kode": "ORD-C3D4E5F6",
+      "tgl": "2024-02-15",
+      "order": "Bundle Model",
+      "status": "Berhasil",
+      "jumlah": 95000
+    },
+    {
+      "id": "h9",
+      "kode": "ORD-G7H8I9J1",
+      "tgl": "2024-02-21",
+      "order": "Bangunan Rumah",
+      "status": "Batal",
+      "jumlah": 300000
+    },
+    {
+      "id": "h10",
+      "kode": "ORD-K2L3M4N5",
+      "tgl": "2024-02-27",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 1800000
+    },
+    {
+      "id": "h11",
+      "kode": "ORD-O6P7Q8R9",
+      "tgl": "2024-03-04",
+      "order": "Bundle Model",
+      "status": "Belum",
+      "jumlah": 45000
+    },
+    {
+      "id": "h12",
+      "kode": "ORD-S1T2U3V4",
+      "tgl": "2024-03-11",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 920000
+    },
+    {
+      "id": "h13",
+      "kode": "ORD-W5X6Y7Z8",
+      "tgl": "2024-03-17",
+      "order": "Bundle Model",
+      "status": "Berhasil",
+      "jumlah": 130000
+    },
+    {
+      "id": "h14",
+      "kode": "ORD-A1B2C3D4",
+      "tgl": "2024-03-23",
+      "order": "Bangunan Rumah",
+      "status": "Batal",
+      "jumlah": 750000
+    },
+    {
+      "id": "h15",
+      "kode": "ORD-E5F6G7H8",
+      "tgl": "2024-03-29",
+      "order": "Bundle Model",
+      "status": "Belum",
+      "jumlah": 62000
+    },
+    {
+      "id": "h16",
+      "kode": "ORD-I9J1K2L3",
+      "tgl": "2024-04-06",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 1100000
+    },
+    {
+      "id": "h17",
+      "kode": "ORD-M4N5O6P7",
+      "tgl": "2024-04-12",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 880000
+    },
+    {
+      "id": "h18",
+      "kode": "ORD-Q8R9S1T2",
+      "tgl": "2024-04-18",
+      "order": "Bundle Model",
+      "status": "Batal",
+      "jumlah": 22000
+    },
+    {
+      "id": "h19",
+      "kode": "ORD-U3V4W5X6",
+      "tgl": "2024-04-24",
+      "order": "Bangunan Rumah",
+      "status": "Belum",
+      "jumlah": 400000
+    },
+    {
+      "id": "h20",
+      "kode": "ORD-Y7Z8A1B2",
+      "tgl": "2024-04-30",
+      "order": "Bundle Model",
+      "status": "Berhasil",
+      "jumlah": 175000
+    },
+    {
+      "id": "h21",
+      "kode": "ORD-C3D4E5F6",
+      "tgl": "2024-05-05",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 1300000
+    },
+    {
+      "id": "h22",
+      "kode": "ORD-G7H8I9J1",
+      "tgl": "2024-05-11",
+      "order": "Bundle Model",
+      "status": "Belum",
+      "jumlah": 90000
+    },
+    {
+      "id": "h23",
+      "kode": "ORD-K2L3M4N5",
+      "tgl": "2024-05-17",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 1050000
+    },
+    {
+      "id": "h24",
+      "kode": "ORD-O6P7Q8R9",
+      "tgl": "2024-05-23",
+      "order": "Bundle Model",
+      "status": "Berhasil",
+      "jumlah": 65000
+    },
+    {
+      "id": "h25",
+      "kode": "ORD-S1T2U3V4",
+      "tgl": "2024-05-29",
+      "order": "Bangunan Rumah",
+      "status": "Batal",
+      "jumlah": 500000
+    },
+    {
+      "id": "h26",
+      "kode": "ORD-W5X6Y7Z8",
+      "tgl": "2024-06-03",
+      "order": "Bundle Model",
+      "status": "Belum",
+      "jumlah": 35000
+    },
+    {
+      "id": "h27",
+      "kode": "ORD-A1B2C3D4",
+      "tgl": "2024-06-09",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 1500000
+    },
+    {
+      "id": "h28",
+      "kode": "ORD-E5F6G7H8",
+      "tgl": "2024-06-15",
+      "order": "Bundle Model",
+      "status": "Berhasil",
+      "jumlah": 110000
+    },
+    {
+      "id": "h29",
+      "kode": "ORD-I9J1K2L3",
+      "tgl": "2024-06-21",
+      "order": "Bangunan Rumah",
+      "status": "Belum",
+      "jumlah": 700000
+    },
+    {
+      "id": "h30",
+      "kode": "ORD-M4N5O6P7",
+      "tgl": "2024-06-27",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 950000
+    },
+    {
+      "id": "h31",
+      "kode": "ORD-Q8R9S1T2",
+      "tgl": "2024-07-02",
+      "order": "Bundle Model",
+      "status": "Batal",
+      "jumlah": 12000
+    },
+    {
+      "id": "h32",
+      "kode": "ORD-U3V4W5X6",
+      "tgl": "2024-07-08",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 1150000
+    },
+    {
+      "id": "h33",
+      "kode": "ORD-Y7Z8A1B2",
+      "tgl": "2024-07-14",
+      "order": "Bundle Model",
+      "status": "Berhasil",
+      "jumlah": 190000
+    },
+    {
+      "id": "h34",
+      "kode": "ORD-C3D4E5F6",
+      "tgl": "2024-07-20",
+      "order": "Bangunan Rumah",
+      "status": "Belum",
+      "jumlah": 800000
+    },
+    {
+      "id": "h35",
+      "kode": "ORD-G7H8I9J1",
+      "tgl": "2024-07-26",
+      "order": "Bundle Model",
+      "status": "Batal",
+      "jumlah": 40000
+    },
+    {
+      "id": "h36",
+      "kode": "ORD-K2L3M4N5",
+      "tgl": "2024-08-01",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 1400000
+    },
+    {
+      "id": "h37",
+      "kode": "ORD-O6P7Q8R9",
+      "tgl": "2024-08-07",
+      "order": "Bundle Model",
+      "status": "Berhasil",
+      "jumlah": 80000
+    },
+    {
+      "id": "h38",
+      "kode": "ORD-S1T2U3V4",
+      "tgl": "2024-08-13",
+      "order": "Bangunan Rumah",
+      "status": "Batal",
+      "jumlah": 600000
+    },
+    {
+      "id": "h39",
+      "kode": "ORD-W5X6Y7Z8",
+      "tgl": "2024-08-19",
+      "order": "Bundle Model",
+      "status": "Belum",
+      "jumlah": 50000
+    },
+    {
+      "id": "h40",
+      "kode": "ORD-A1B2C3D4",
+      "tgl": "2024-08-25",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 1250000
+    },
+    {
+      "id": "h41",
+      "kode": "ORD-E5F6G7H8",
+      "tgl": "2024-09-02",
+      "order": "Bundle Model",
+      "status": "Belum",
+      "jumlah": 70000
+    },
+    {
+      "id": "h42",
+      "kode": "ORD-I9J1K2L3",
+      "tgl": "2024-09-08",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 1000000
+    },
+    {
+      "id": "h43",
+      "kode": "ORD-M4N5O6P7",
+      "tgl": "2024-09-14",
+      "order": "Bundle Model",
+      "status": "Berhasil",
+      "jumlah": 160000
+    },
+    {
+      "id": "h44",
+      "kode": "ORD-Q8R9S1T2",
+      "tgl": "2024-09-20",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 1350000
+    },
+    {
+      "id": "h45",
+      "kode": "ORD-U3V4W5X6",
+      "tgl": "2024-09-26",
+      "order": "Bangunan Rumah",
+      "status": "Batal",
+      "jumlah": 250000
+    },
+    {
+      "id": "h46",
+      "kode": "ORD-Y7Z8A1B2",
+      "tgl": "2024-10-03",
+      "order": "Bundle Model",
+      "status": "Belum",
+      "jumlah": 30000
+    },
+    {
+      "id": "h47",
+      "kode": "ORD-C3D4E5F6",
+      "tgl": "2024-10-09",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 900000
+    },
+    {
+      "id": "h48",
+      "kode": "ORD-G7H8I9J1",
+      "tgl": "2024-10-15",
+      "order": "Bundle Model",
+      "status": "Berhasil",
+      "jumlah": 115000
+    },
+    {
+      "id": "h49",
+      "kode": "ORD-K2L3M4N5",
+      "tgl": "2024-10-21",
+      "order": "Bangunan Rumah",
+      "status": "Belum",
+      "jumlah": 550000
+    },
+    {
+      "id": "h50",
+      "kode": "ORD-O6P7Q8R9",
+      "tgl": "2024-10-27",
+      "order": "Bundle Model",
+      "status": "Berhasil",
+      "jumlah": 180000
+    },
+    {
+      "id": "h51",
+      "kode": "ORD-S1T2U3V4",
+      "tgl": "2024-11-04",
+      "order": "Bangunan Rumah",
+      "status": "Batal",
+      "jumlah": 350000
+    },
+    {
+      "id": "h52",
+      "kode": "ORD-W5X6Y7Z8",
+      "tgl": "2024-11-10",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 1050000
+    },
+    {
+      "id": "h53",
+      "kode": "ORD-A1B2C3D4",
+      "tgl": "2024-11-16",
+      "order": "Bundle Model",
+      "status": "Belum",
+      "jumlah": 25000
+    },
+    {
+      "id": "h54",
+      "kode": "ORD-E5F6G7H8",
+      "tgl": "2024-11-22",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 1200000
+    },
+    {
+      "id": "h55",
+      "kode": "ORD-I9J1K2L3",
+      "tgl": "2024-11-28",
+      "order": "Bundle Model",
+      "status": "Berhasil",
+      "jumlah": 140000
+    },
+    {
+      "id": "h56",
+      "kode": "ORD-M4N5O6P7",
+      "tgl": "2024-12-02",
+      "order": "Bangunan Rumah",
+      "status": "Belum",
+      "jumlah": 650000
+    },
+    {
+      "id": "h57",
+      "kode": "ORD-Q8R9S1T2",
+      "tgl": "2024-12-08",
+      "order": "Bundle Model",
+      "status": "Berhasil",
+      "jumlah": 95000
+    },
+    {
+      "id": "h58",
+      "kode": "ORD-U3V4W5X6",
+      "tgl": "2024-12-14",
+      "order": "Bangunan Rumah",
+      "status": "Batal",
+      "jumlah": 450000
+    },
+    {
+      "id": "h59",
+      "kode": "ORD-Y7Z8A1B2",
+      "tgl": "2024-12-20",
+      "order": "Bundle Model",
+      "status": "Belum",
+      "jumlah": 55000
+    },
+    {
+      "id": "h60",
+      "kode": "ORD-C3D4E5F6",
+      "tgl": "2024-12-26",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 1600000
+    },
+    {
+      "id": "h61",
+      "kode": "ORD-G7H8I9J1",
+      "tgl": "2025-01-03",
+      "order": "Bundle Model",
+      "status": "Berhasil",
+      "jumlah": 125000
+    },
+    {
+      "id": "h62",
+      "kode": "ORD-K2L3M4N5",
+      "tgl": "2025-01-09",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 1100000
+    },
+    {
+      "id": "h63",
+      "kode": "ORD-O6P7Q8R9",
+      "tgl": "2025-01-15",
+      "order": "Bundle Model",
+      "status": "Batal",
+      "jumlah": 20000
+    },
+    {
+      "id": "h64",
+      "kode": "ORD-S1T2U3V4",
+      "tgl": "2025-01-21",
+      "order": "Bangunan Rumah",
+      "status": "Belum",
+      "jumlah": 750000
+    },
+    {
+      "id": "h65",
+      "kode": "ORD-W5X6Y7Z8",
+      "tgl": "2025-01-27",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 950000
+    },
+    {
+      "id": "h66",
+      "kode": "ORD-A1B2C3D4",
+      "tgl": "2025-02-04",
+      "order": "Bundle Model",
+      "status": "Belum",
+      "jumlah": 60000
+    },
+    {
+      "id": "h67",
+      "kode": "ORD-E5F6G7H8",
+      "tgl": "2025-02-10",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 1300000
+    },
+    {
+      "id": "h68",
+      "kode": "ORD-I9J1K2L3",
+      "tgl": "2025-02-16",
+      "order": "Bundle Model",
+      "status": "Berhasil",
+      "jumlah": 105000
+    },
+    {
+      "id": "h69",
+      "kode": "ORD-M4N5O6P7",
+      "tgl": "2025-02-22",
+      "order": "Bangunan Rumah",
+      "status": "Batal",
+      "jumlah": 300000
+    },
+    {
+      "id": "h70",
+      "kode": "ORD-Q8R9S1T2",
+      "tgl": "2025-02-28",
+      "order": "Bundle Model",
+      "status": "Berhasil",
+      "jumlah": 150000
+    },
+    {
+      "id": "h71",
+      "kode": "ORD-U3V4W5X6",
+      "tgl": "2025-03-05",
+      "order": "Bangunan Rumah",
+      "status": "Belum",
+      "jumlah": 850000
+    },
+    {
+      "id": "h72",
+      "kode": "ORD-Y7Z8A1B2",
+      "tgl": "2025-03-11",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 1000000
+    },
+    {
+      "id": "h73",
+      "kode": "ORD-C3D4E5F6",
+      "tgl": "2025-03-17",
+      "order": "Bundle Model",
+      "status": "Batal",
+      "jumlah": 45000
+    },
+    {
+      "id": "h74",
+      "kode": "ORD-G7H8I9J1",
+      "tgl": "2025-03-23",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 1150000
+    },
+    {
+      "id": "h75",
+      "kode": "ORD-K2L3M4N5",
+      "tgl": "2025-03-29",
+      "order": "Bundle Model",
+      "status": "Belum",
+      "jumlah": 80000
+    },
+    {
+      "id": "h76",
+      "kode": "ORD-O6P7Q8R9",
+      "tgl": "2025-04-02",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 1400000
+    },
+    {
+      "id": "h77",
+      "kode": "ORD-S1T2U3V4",
+      "tgl": "2025-04-08",
+      "order": "Bundle Model",
+      "status": "Berhasil",
+      "jumlah": 130000
+    },
+    {
+      "id": "h78",
+      "kode": "ORD-W5X6Y7Z8",
+      "tgl": "2025-04-14",
+      "order": "Bangunan Rumah",
+      "status": "Belum",
+      "jumlah": 500000
+    },
+    {
+      "id": "h79",
+      "kode": "ORD-A1B2C3D4",
+      "tgl": "2025-04-20",
+      "order": "Bundle Model",
+      "status": "Batal",
+      "jumlah": 15000
+    },
+    {
+      "id": "h80",
+      "kode": "ORD-E5F6G7H8",
+      "tgl": "2025-04-26",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 1250000
+    },
+    {
+      "id": "h81",
+      "kode": "ORD-I9J1K2L3",
+      "tgl": "2025-05-01",
+      "order": "Bundle Model",
+      "status": "Berhasil",
+      "jumlah": 160000
+    },
+    {
+      "id": "h82",
+      "kode": "ORD-M4N5O6P7",
+      "tgl": "2025-05-07",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 900000
+    },
+    {
+      "id": "h83",
+      "kode": "ORD-Q8R9S1T2",
+      "tgl": "2025-05-13",
+      "order": "Bundle Model",
+      "status": "Belum",
+      "jumlah": 70000
+    },
+    {
+      "id": "h84",
+      "kode": "ORD-U3V4W5X6",
+      "tgl": "2025-05-19",
+      "order": "Bangunan Rumah",
+      "status": "Batal",
+      "jumlah": 650000
+    },
+    {
+      "id": "h85",
+      "kode": "ORD-Y7Z8A1B2",
+      "tgl": "2025-05-25",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 1050000
+    },
+    {
+      "id": "h86",
+      "kode": "ORD-C3D4E5F6",
+      "tgl": "2025-06-02",
+      "order": "Bundle Model",
+      "status": "Belum",
+      "jumlah": 40000
+    },
+    {
+      "id": "h87",
+      "kode": "ORD-G7H8I9J1",
+      "tgl": "2025-06-08",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 1350000
+    },
+    {
+      "id": "h88",
+      "kode": "ORD-K2L3M4N5",
+      "tgl": "2025-06-14",
+      "order": "Bundle Model",
+      "status": "Berhasil",
+      "jumlah": 110000
+    },
+    {
+      "id": "h89",
+      "kode": "ORD-O6P7Q8R9",
+      "tgl": "2025-06-20",
+      "order": "Bangunan Rumah",
+      "status": "Belum",
+      "jumlah": 800000
+    },
+    {
+      "id": "h90",
+      "kode": "ORD-S1T2U3V4",
+      "tgl": "2025-06-26",
+      "order": "Bundle Model",
+      "status": "Batal",
+      "jumlah": 25000
+    },
+    {
+      "id": "h91",
+      "kode": "ORD-W5X6Y7Z8",
+      "tgl": "2025-07-03",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 950000
+    },
+    {
+      "id": "h92",
+      "kode": "ORD-A1B2C3D4",
+      "tgl": "2025-07-09",
+      "order": "Bundle Model",
+      "status": "Berhasil",
+      "jumlah": 170000
+    },
+    {
+      "id": "h93",
+      "kode": "ORD-E5F6G7H8",
+      "tgl": "2025-07-15",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 910000
+    },
+    {
+      "id": "h94",
+      "kode": "ORD-I9J1K2L3",
+      "tgl": "2025-07-21",
+      "order": "Bundle Model",
+      "status": "Belum",
+      "jumlah": 85000
+    },
+    {
+      "id": "h95",
+      "kode": "ORD-M4N5O6P7",
+      "tgl": "2025-07-27",
+      "order": "Bangunan Rumah",
+      "status": "Batal",
+      "jumlah": 430000
+    },
+    {
+      "id": "h96",
+      "kode": "ORD-Q8R9S1T2",
+      "tgl": "2025-08-04",
+      "order": "Bundle Model",
+      "status": "Belum",
+      "jumlah": 7900
+    },
+    {
+      "id": "h97",
+      "kode": "ORD-U3V4W5X6",
+      "tgl": "2025-08-10",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 1220000
+    },
+    {
+      "id": "h98",
+      "kode": "ORD-Y7Z8A1B2",
+      "tgl": "2025-08-16",
+      "order": "Bundle Model",
+      "status": "Berhasil",
+      "jumlah": 140000
+    },
+    {
+      "id": "h99",
+      "kode": "ORD-C3D4E5F6",
+      "tgl": "2025-08-22",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 1550000
+    },
+    {
+      "id": "h100",
+      "kode": "ORD-G7H8I9J1",
+      "tgl": "2025-08-28",
+      "order": "Bundle Model",
+      "status": "Batal",
+      "jumlah": 30000
+    },
+    {
+      "id": "h101",
+      "kode": "ORD-K2L3M4N5",
+      "tgl": "2025-09-02",
+      "order": "Bangunan Rumah",
+      "status": "Belum",
+      "jumlah": 600000
+    },
+    {
+      "id": "h102",
+      "kode": "ORD-O6P7Q8R9",
+      "tgl": "2025-09-08",
+      "order": "Bundle Model",
+      "status": "Berhasil",
+      "jumlah": 185000
+    },
+    {
+      "id": "h103",
+      "kode": "ORD-S1T2U3V4",
+      "tgl": "2025-09-14",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 1120000
+    },
+    {
+      "id": "h104",
+      "kode": "ORD-W5X6Y7Z8",
+      "tgl": "2025-09-20",
+      "order": "Bundle Model",
+      "status": "Belum",
+      "jumlah": 95000
+    },
+    {
+      "id": "h105",
+      "kode": "ORD-A1B2C3D4",
+      "tgl": "2025-09-26",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 1450000
+    },
+    {
+      "id": "h106",
+      "kode": "ORD-E5F6G7H8",
+      "tgl": "2025-10-01",
+      "order": "Bundle Model",
+      "status": "Batal",
+      "jumlah": 10000
+    },
+    {
+      "id": "h107",
+      "kode": "ORD-I9J1K2L3",
+      "tgl": "2025-10-07",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 1300000
+    },
+    {
+      "id": "h108",
+      "kode": "ORD-M4N5O6P7",
+      "tgl": "2025-10-13",
+      "order": "Bundle Model",
+      "status": "Berhasil",
+      "jumlah": 195000
+    },
+    {
+      "id": "h109",
+      "kode": "ORD-Q8R9S1T2",
+      "tgl": "2025-10-19",
+      "order": "Bangunan Rumah",
+      "status": "Belum",
+      "jumlah": 900000
+    },
+    {
+      "id": "h110",
+      "kode": "ORD-U3V4W5X6",
+      "tgl": "2025-10-25",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 1020000
+    },
+    {
+      "id": "h111",
+      "kode": "ORD-Y7Z8A1B2",
+      "tgl": "2025-11-03",
+      "order": "Bundle Model",
+      "status": "Belum",
+      "jumlah": 68000
+    },
+    {
+      "id": "h112",
+      "kode": "ORD-C3D4E5F6",
+      "tgl": "2025-11-09",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 1180000
+    },
+    {
+      "id": "h113",
+      "kode": "ORD-G7H8I9J1",
+      "tgl": "2025-11-15",
+      "order": "Bundle Model",
+      "status": "Berhasil",
+      "jumlah": 155000
+    },
+    {
+      "id": "h114",
+      "kode": "ORD-K2L3M4N5",
+      "tgl": "2025-11-21",
+      "order": "Bangunan Rumah",
+      "status": "Batal",
+      "jumlah": 720000
+    },
+    {
+      "id": "h115",
+      "kode": "ORD-O6P7Q8R9",
+      "tgl": "2025-11-27",
+      "order": "Bundle Model",
+      "status": "Berhasil",
+      "jumlah": 210000
+    },
+    {
+      "id": "h116",
+      "kode": "ORD-S1T2U3V4",
+      "tgl": "2025-12-05",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 880000
+    },
+    {
+      "id": "h117",
+      "kode": "ORD-W5X6Y7Z8",
+      "tgl": "2025-12-11",
+      "order": "Bundle Model",
+      "status": "Belum",
+      "jumlah": 34000
+    },
+    {
+      "id": "h118",
+      "kode": "ORD-A1B2C3D4",
+      "tgl": "2025-12-17",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 1420000
+    },
+    {
+      "id": "h119",
+      "kode": "ORD-E5F6G7H8",
+      "tgl": "2025-12-23",
+      "order": "Bundle Model",
+      "status": "Batal",
+      "jumlah": 50000
+    },
+    {
+      "id": "h120",
+      "kode": "ORD-I9J1K2L3",
+      "tgl": "2025-12-29",
+      "order": "Bangunan Rumah",
+      "status": "Berhasil",
+      "jumlah": 950000
+    }
+  ]
+}
